@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-down" width="30" height="20" tilewidth="16" tileheight="16" infinite="0" nextlayerid="6" nextobjectid="1">
+ <tileset firstgid="1" source="free_dungon_tiles.tsx"/>
+ <tileset firstgid="626" source="free_dungeon_items.tsx"/>
+ <layer id="1" name="Floor Layer" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJyTZ2BgkB/FdMGsQMxGJ8yOZK8cHf2oMGrvqL2DzF5fRlS+KZBvxkicXisgtqaif/2ItJsDiDmpaC/Iz/5E2DsU43fU3qFlrzkQW9AJW9LRj9gwAO5gSZ8=
+  </data>
+ </layer>
+ <layer id="5" name="Walls" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt08EJwkAQRuFN9Kyeo1YRtQrFKgQtQ8vQJrQMrUE9aA3q1Sf8gbmIsIGdQxz4YGBhH2TJMoSQIcceB+2xWmjrTrvb8xXWKNDHESftsQYY6k672/ONuiVGuOGuPdYYE91pd3tedT9z5mNc5JqFWjP/sldjuw9aT3nV7P4a2+3w6F3p5em6Kceru3DqFk7d0qkbGtadOnWb9v/+u+m6W8wS2+ENG2gv0A==
+  </data>
+ </layer>
+ <layer id="3" name="Furniture Layer" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFILCImYFBCIiFgXgJEC/FwhcAYkFmiFp0UMQEwaSC3UCztIFYB4j3AvE+LHxNINZihqhFB91MEEwOcAGa58qMm+8EZDtjsZNSEAs0M44ZNz8ayI6hgb0jFawApo+VZKYRSsBBoJ2HBsDeW0A7bw+AvaNgFIyCUYAMAL27FHY=
+  </data>
+ </layer>
+ <layer id="4" name="Object layer" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBhe4CYz/exaArRrKdS+T0D6PZS9DEgvZ0aVpybYCzRzHxB/RDIbZPd+ID7AjJAfBaMABi4NQHp4CbTz8Gg6HAWjYBSMUAAAcHQPqQ==
+  </data>
+ </layer>
+</map>
